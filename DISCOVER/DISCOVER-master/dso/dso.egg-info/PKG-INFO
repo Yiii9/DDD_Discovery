@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dso
+Version: 1.0.dev0
+Summary: Deep symbolic PDE identification
+Author: mgd
+Provides-Extra: Numeric
+Provides-Extra: PINN
+Provides-Extra: all
